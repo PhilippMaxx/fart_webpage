@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/fart_webpage/static/media/logo.5158b7b6.png"
   },
   {
-    "revision": "d444359210140ec1f0be2beac49dada2",
+    "revision": "64149b5adadf19762af60435732df4a5",
     "url": "/fart_webpage/index.html"
   }
 ];
