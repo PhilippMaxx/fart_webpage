@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fart_webpage/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/fart_webpage/static/js/main.5b04c185.chunk.js",
+    "main.js.map": "/fart_webpage/static/js/main.5b04c185.chunk.js.map",
+    "runtime-main.js": "/fart_webpage/static/js/runtime-main.ce549682.js",
+    "runtime-main.js.map": "/fart_webpage/static/js/runtime-main.ce549682.js.map",
+    "static/js/2.758029f1.chunk.js": "/fart_webpage/static/js/2.758029f1.chunk.js",
+    "static/js/2.758029f1.chunk.js.map": "/fart_webpage/static/js/2.758029f1.chunk.js.map",
+    "static/js/3.7081ccdf.chunk.js": "/fart_webpage/static/js/3.7081ccdf.chunk.js",
+    "static/js/3.7081ccdf.chunk.js.map": "/fart_webpage/static/js/3.7081ccdf.chunk.js.map",
+    "index.html": "/fart_webpage/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/fart_webpage/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.758029f1.chunk.js.LICENSE.txt": "/fart_webpage/static/js/2.758029f1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/fart_webpage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce549682.js",
+    "static/js/2.758029f1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.5b04c185.chunk.js"
+  ]
+}
