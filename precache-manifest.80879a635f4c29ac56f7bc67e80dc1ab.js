@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e575d0ad3ecd80287b63",
+    "revision": "c6d0f9a616fed34f3a9d",
     "url": "/fart_webpage/static/css/main.1dc6c637.chunk.css"
   },
   {
-    "revision": "e575d0ad3ecd80287b63",
-    "url": "/fart_webpage/static/js/main.e575d0ad.chunk.js"
+    "revision": "c6d0f9a616fed34f3a9d",
+    "url": "/fart_webpage/static/js/main.c6d0f9a6.chunk.js"
   },
   {
     "revision": "f7032f3a3c2d87a1c00e",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/fart_webpage/static/media/logo.5158b7b6.png"
   },
   {
-    "revision": "502847c633d64a5eacae00aff972c4c1",
+    "revision": "c8c7ce816d3e49a7dbe9f4c1d135871d",
     "url": "/fart_webpage/index.html"
   }
 ];
